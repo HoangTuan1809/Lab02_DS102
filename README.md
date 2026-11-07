@@ -8,4 +8,4 @@
 
 **Assignment_02.py:** Phân loại sản phẩm chuột vào năm phân khúc giá dựa trên các đặc trưng đã trích xuất (dùng Softmax Regression)
 
-**Assignment_03.py:** Kết hợp yêu cầu của Assignment_01 và Assignment_02 nhưng dùng thư viện Machine Learning có sẵn
+**Assignment_03.ipynb:** Kết hợp yêu cầu của Assignment_01 và Assignment_02 nhưng dùng thư viện Machine Learning có sẵn
